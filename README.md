@@ -10,3 +10,9 @@ Desarrollado en Laravel + Vue
 - graficos con Chart.js
 - generacion de reportes PDF
 
+Demostracion en linea
+https://laravelcompraventa.000webhostapp.com
+
+Datos de usuario administrador
+usuario: claudio1
+clave: 12345678
